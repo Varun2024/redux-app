@@ -1,0 +1,1 @@
+store folder can be stored anywere

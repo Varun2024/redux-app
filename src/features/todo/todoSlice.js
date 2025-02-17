@@ -34,6 +34,6 @@ export const todoSlice = createSlice({
     }
 })
 
-export const {ddTodo , removeTodo} = todoSlice.actions //used in components
+export const {addTodo , removeTodo} = todoSlice.actions //used in components
 
 export default todoSlice.reducer // mandatory as this is used in the store 
